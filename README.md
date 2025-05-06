@@ -1,6 +1,6 @@
 # Generative AI: A Comprehensive Overview
 
-Welcome to this repository on Generative AI! This README provides a detailed exploration of Generative AI, covering its fundamentals, history, core concepts, popular tools, applications across various domains, ethical considerations, and future prospects. Whether you're a beginner or an experienced professional, this guide aims to deepen your understanding of this transformative technology.
+Welcome to this repository on Generative AI! a detailed exploration of Generative AI, covering its fundamentals, history, core concepts, popular tools, applications across various domains, ethical considerations, and future prospects. Whether you're a beginner or an experienced professional, this guide aims to deepen your understanding of this transformative technology.
 
 ## What is Generative AI?
 
